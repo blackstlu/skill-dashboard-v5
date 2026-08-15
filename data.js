@@ -1337,7 +1337,7 @@ window.DASHBOARD_DATA = {
     {
       id: "week-4",
       week: 4,
-    },
+    
     {
       id: "week-5",
       week: 5,
